@@ -4,6 +4,10 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+**oak.coop** is an experiment in grounding the web. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+we ask: where is oakland online and where could it be? how might we [rewild the internet](https://www.noemamag.com/we-need-to-rewild-the-internet/) with local roots? can we connect and protect a native digital habitat on the open social web? what would our local station of the [pbs of the internet](https://pbsoftheinternet.org/) look like? 
+
+we have tools and inspiration to better care for local knowledge, data, and attention in the east bay, so let's start.  
+
+say hi: **hello@oak.coop**
